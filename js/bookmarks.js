@@ -1,19 +1,19 @@
 var bookmarks = (function() {
 
   var all = [{
-    letter: "CM",
-    name: "Citymapper",
-    url: "https://citymapper.com/london/superrouter",
+    letter: "PH",
+    name: "Pi-hole",
+    url: "http://pi.hole/admin/index.php",
     timeStamp: 1546453100455
   }, {
-    letter: "DEV",
-    name: "Devdocs",
-    url: "http://devdocs.io/",
+    letter: "SO",
+    name: "Sonarr",
+    url: "http://destiny:8989/",
     timeStamp: 1546453101749
   }, {
-    letter: "OD",
-    name: "r/opendirectories/",
-    url: "https://www.reddit.com/r/opendirectories/",
+    letter: "DE",
+    name: "Deluge",
+    url: "http://henlin.lw814.usbx.me:12255/",
     timeStamp: 1546453102199
   }, {
     letter: "KP",
