@@ -13,37 +13,37 @@ var bookmarks = (function() {
   }, {
     letter: "DE",
     name: "Deluge",
-    url: "http://henlin.lw814.usbx.me:12255/",
+    url: "https://henlin.lw814.usbx.me/deluge/",
     timeStamp: 1546453102199
   }, {
-    letter: "KP",
-    name: "Keep",
-    url: "https://keep.google.com/",
+    letter: "RA",
+    name: "Radarr USBX",
+    url: "http://henlin.lw814.usbx.me/radarr/",
     timeStamp: 1546453102671
   }, {
-    letter: "MHW",
-    name: "r/monsterhunterworld/",
-    url: "https://www.reddit.com/r/monsterhunterworld/",
+    letter: "SU",
+    name: "Sonarr USBX",
+    url: "http://henlin.lw814.usbx.me/sonarr/",
     timeStamp: 1546453103110
   }, {
-    letter: "M",
-    name: "Maps",
-    url: "https://www.google.co.uk/maps",
+    letter: "JA",
+    name: "Jackett",
+    url: "http://henlin.lw814.usbx.me/jackett/",
     timeStamp: 1546453103560
   }, {
-    letter: "AS",
-    name: "awesomeSheet",
-    url: "https://zombiefox.github.io/awesomeSheet/",
+    letter: "OM",
+    name: "Ombi",
+    url: "http://henlin.lw814.usbx.me/ombi/",
     timeStamp: 1546453104010
   }, {
-    letter: "N",
-    name: "Netflix",
-    url: "https://www.netflix.com/",
+    letter: "PL",
+    name: "Plex",
+    url: "http://henlin.lw814.usbx.me:12275",
     timeStamp: 1546453104460
   }, {
-    letter: "P",
-    name: "Photos",
-    url: "https://photos.google.com/",
+    letter: "TA",
+    name: "Tautulli",
+    url: "http://henlin.lw814.usbx.me/tautulli/",
     timeStamp: 1546453104910
   }, {
     letter: "FB",
