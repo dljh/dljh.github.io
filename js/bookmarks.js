@@ -23,7 +23,7 @@ var bookmarks = (function() {
   }, {
     letter: "SU",
     name: "Sonarr USBX",
-    url: "https://henlin.lw814.usbx.me/sonarr/",
+    url: "http://henlin.lw814.usbx.me/sonarr/",
     timeStamp: 1546453103110
   }, {
     letter: "JA",
