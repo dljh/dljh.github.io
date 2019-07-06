@@ -3,12 +3,12 @@ var bookmarks = (function() {
   var all = [{
     letter: "PH",
     name: "Pi-hole",
-    url: "http://pi.hole/admin/index.php",
+    url: "http://pihole.dljh.uk/admin/index.php",
     timeStamp: 1546453100455
   }, {
     letter: "SO",
     name: "Sonarr",
-    url: "http://destiny:8989/",
+    url: "http://osmium.dljh.uk:8989/",
     timeStamp: 1546453101749
   }, {
     letter: "DE",
